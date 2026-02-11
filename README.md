@@ -1,1 +1,2 @@
 # Project-IBM
+This capstone project focuses on analyzing SpaceX’s Falcon 9 rocket launches to predict whether the first stage will successfully land. Because first‑stage reuse significantly reduces launch costs—from roughly $165M with other providers to SpaceX’s $62M—the ability to forecast reuse directly supports cost estimation. Acting as a data scientist for a fictional competitor, Space Y, I will gather publicly available SpaceX launch data, explore factors influencing landing outcomes, and build machine learning models and dashboards to support launch pricing decisions.

@@ -12,3 +12,6 @@ Interactive dashboard built with Plotly Dash to analyse SpaceX launch success.
 ```bash
 pip install -r requirements.txt
 python spacex-dash-app
+
+Then open:
+http://127.0.0.1:8050/
